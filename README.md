@@ -1,1 +1,0 @@
-# aws_resource_list.sh
